@@ -1,0 +1,40 @@
+10
+
+dir
+480
+http://itpage.googlecode.com/svn/trunk/site/ckeditor/.subversion/auth
+http://itpage.googlecode.com/svn
+
+
+
+2009-11-03T20:51:29.288954Z
+473
+elandmann
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+af863c6e-91c6-11de-8d68-838d6ba51ce1
+
+svn.username
+dir
+
+svn.ssl.client-passphrase
+dir
+
+svn.ssl.server
+dir
+
+svn.simple
+dir
+
